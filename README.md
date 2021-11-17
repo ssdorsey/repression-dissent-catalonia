@@ -13,9 +13,9 @@ An extensive literature in political science and sociology has analyzed how stat
 1. Clone this repo (includes data)
 2. Install R
 3. Run the four R files in order:
-    1.R Summary figures, analysis of preferences toward independence
+    `1.R Summary figures, analysis of preferences toward independence
     2.R Perception towards actors
     3.R Placebo test
-    4.R Vicimization study
+    4.R Vicimization study`
 
         
