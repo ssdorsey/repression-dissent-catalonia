@@ -14,7 +14,6 @@ An extensive literature in political science and sociology has analyzed how stat
 2. Install R
 3. Run the four R files in order:
 
-"""
     1.R Summary figures, analysis of preferences toward independence
     
     2.R Perception towards actors
@@ -22,6 +21,6 @@ An extensive literature in political science and sociology has analyzed how stat
     4.R Placebo test
 
     6.R Vicimization study
-"""
+
 
         
